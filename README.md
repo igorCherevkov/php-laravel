@@ -3,8 +3,8 @@
 ## Клонирование
 
 ```
-git clone https://github.com/igorCherevkov/analytics-bot.git
-cd analytics-bot
+git clone https://github.com/igorCherevkov/php-laravel.git
+cd php-laravel
 ```
 
 ## Настройка переменных окружения
