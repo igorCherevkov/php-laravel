@@ -16,7 +16,9 @@ cp frontend/.env.example frontend/.env
 
 ## Запуск (команды для миграций и сидеров включены в Dockerfile)
 
-docker-compose up --build -d
+```
+docker compose up --build -d
+```
 
 ## Доступ к приложениям
 
